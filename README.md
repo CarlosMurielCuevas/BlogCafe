@@ -37,6 +37,6 @@ Este es un pequeño proyecto que hice para practicar mis primeras habilidades co
 
 1. Descargá o cloná el repositorio:
    ```bash
-   git clone https://github.com/CarlosMurielCuevas/blogdecafe.git
+   git clone https://github.com/CarlosMurielCuevas/BlogCafe.git
 
 
