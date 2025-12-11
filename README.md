@@ -1,6 +1,6 @@
 # ☕ Blog de Café – Proyecto Web Estático
 
-Este es un pequeño proyecto que hice para practicar mis primeras habilidades con **HTML y CSS**. La idea fue crear un blog simple sobre café y, al mismo tiempo, aprender a estructurar mejor un sitio web, organizar estilos y trabajar con varias páginas.
+Este es un pequeño proyecto que hice para practicar mis primeras habilidades con **HTML y CSS**. La idea fue crear un blog simple sobre café y al mismo tiempo, aprender a estructurar mejor un sitio web, organizar estilos y trabajar con varias páginas.
 
 ## 🚀 ¿Qué incluye?
 
