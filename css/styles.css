@@ -222,7 +222,7 @@ img {
     margin-top: 4rem;
 }
 
-/*  Nosotros */
+/* Nosotros */
 
 @media (min-width: 768px) {
     .sobre-nosotros {
@@ -308,4 +308,5 @@ img {
 .campo__field--textarea {
     height: 20rem;
 }
+
 
