@@ -22,7 +22,7 @@ Este es un pequeño proyecto que hice para practicar mis primeras habilidades co
   - cursos.html
   - css/
     - normalice.css
-    - estilos.css
+    - styles.css
   - img/
     - (imágenes utilizadas en el sitio)
 
